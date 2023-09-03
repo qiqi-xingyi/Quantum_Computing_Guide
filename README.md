@@ -21,7 +21,10 @@ ket notation is represented as:
 
 
 bar notation is represented as:
-![Image text](https://github.com/qiqi-xingyi/Quantum_Computing_Guide/blob/main/img/bar_N.jpg)
+<div align="center">
+	<img src="https://github.com/qiqi-xingyi/Quantum_Computing_Guide/blob/main/img/key_N.jpg" alt="Editor" width="600">
+</div>
+
 
 Here, bar represents the complex conjugate transpose of the ket.
 
