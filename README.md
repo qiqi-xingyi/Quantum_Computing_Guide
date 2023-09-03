@@ -138,7 +138,7 @@ Any isolated physical system is associated with a Hilbert space. (The system is 
 The evolution of a closed quantum system can be described by unitary transformations.
 
 ### Postulate 3
-Quantum measurement is described by a set of measurement operators $\left \{ M_{m}\right \}$, which act on the state space of the system being measured.
+Quantum measurement is described by a set of measurement operators $$\left\{M_{m}\right\}$$, which act on the state space of the system being measured.
 $$P(m) = \langle\psi|M_{m}^{\dagger}M_{m}|\psi\rangle$$
 
 ### Postulate 4
