@@ -15,7 +15,9 @@ $$|\psi\rangle$$
 This symbol represents the state vector using Dirac notation, and we use it to denote quantum states. State vectors correspond to vectors in linear algebra. Specifically, the ket notation often corresponds to column vectors, while the bra notation corresponds to row vectors.
 
 ket notation is represented as:
-![Image text](https://github.com/qiqi-xingyi/Quantum_Computing_Guide/blob/main/img/key_N.jpg)
+<div align="center">
+	<img src="https://github.com/qiqi-xingyi/Quantum_Computing_Guide/blob/main/img/key_N.jpg" alt="Editor" width="100">
+</div>
 
 
 bar notation is represented as:
