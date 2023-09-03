@@ -62,12 +62,9 @@ $$|\alpha\rangle \otimes|\beta\rangle=|\alpha\rangle|\beta\rangle=|\alpha \beta\
 Here are the operational rules for the matrix representation of the tensor product - the Kronecker product:
 
 Let $A$ be an $m \times n$ matrix, and $B$ be a $p \times q$ matrix. The matrix form of $A \otimes B$ is defined as:
-$$A \otimes B=\left[\begin{array}{cccc}
-A_{11} B & A_{12} B & \cdots & A_{1 n} B \\
-A_{21} B & A_{22} & \cdots & A_{2 n} B \\
-\vdots & \vdots & \ddots & \vdots \\
-A_{m 1} B & A_{m 2} B & \cdots & A_{m n} B
-\end{array}\right]$$
+<div align="center">
+	<img src="https://github.com/qiqi-xingyi/Quantum_Computing_Guide/blob/main/img/M1.png" alt="Editor" width="320">
+</div>
 
 In Python, you can also compute the tensor product using libraries like PyTorch.
 ```python
@@ -96,17 +93,10 @@ The Hermitian conjugate operation is a unary operation, meaning it takes only on
 
 $$A^{\dagger} = (A^{T})^{*}$$
 
-$$
-\begin{array}
-  a&b\\\
-  c&d
-\end{array}^{\dagger}
- = 
-\begin{array}
-  a^{*}&c^{*}\\\
-  b^{*}&d^{*}
-\end{array}
-$$
+<div align="center">
+	<img src="https://github.com/qiqi-xingyi/Quantum_Computing_Guide/blob/main/img/M2.png" alt="Editor" width="450">
+</div>
+
 
 We implement this operation using Python.
 ```python
