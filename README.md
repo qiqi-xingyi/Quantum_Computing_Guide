@@ -15,19 +15,11 @@ $$|\psi\rangle$$
 This symbol represents the state vector using Dirac notation, and we use it to denote quantum states. State vectors correspond to vectors in linear algebra. Specifically, the ket notation often corresponds to column vectors, while the bra notation corresponds to row vectors.
 
 ket notation is represented as:
-$$|\psi\rangle=\left(\begin{array}{c}
-\psi_{1} \\
-\psi_{2} \\
-\psi_{3} \\
-\psi_{4} \\
-\vdots \\
-\psi_{N}
-\end{array}\right)$$
+![Image text](https://github.com/qiqi-xingyi/Quantum_Computing_Guide/blob/main/img/key_N.jpg)
+
 
 bar notation is represented as:
-$$\langle\psi|=\left(\begin{array}{llllll}
-\psi_{1}^{*}, & \psi_{2}^{*}, & \psi_{3}^{*}, & \psi_{4}^{*}, & \cdots, & \psi_{N}^{*}
-\end{array}\right)$$
+![Image text](https://github.com/qiqi-xingyi/Quantum_Computing_Guide/blob/main/img/bar_N.jpg)
 
 Here, bar represents the complex conjugate transpose of the ket.
 
