@@ -1,5 +1,5 @@
 # Quantum Computing Guide
-![]([https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg](https://github.com/qiqi-xingyi/Quantum_Computing_Guide/blob/main/img/0.png))
+!![Image text]((https://github.com/qiqi-xingyi/Quantum_Computing_Guide/blob/main/img/0.png))
 A quantum computing tutorial for engineering students starting from scratch.
 
 This tutorial will start from the basics of mathematics and quantum mechanics, and in very simple and clear language, it will help you understand the fundamental concepts of quantum computing and guide you on how to build quantum circuits and perform numerical simulations.
