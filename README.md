@@ -99,15 +99,15 @@ The Hermitian conjugate operation is a unary operation, meaning it takes only on
 $$A^{\dagger} = (A^{T})^{*}$$
 
 $$
-\begin{bmatrix}
+\begin{array}
   a&b\\\
   c&d
-\end{bmatrix}^{\dagger}
+\end{array}^{\dagger}
  = 
-\begin{bmatrix}
+\begin{array}
   a^{*}&c^{*}\\\
   b^{*}&d^{*}
-\end{bmatrix}
+\end{array}
 $$
 
 We implement this operation using Python.
