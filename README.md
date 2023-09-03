@@ -102,8 +102,9 @@ $$
 \begin{bmatrix}
   a&b\\
   c&d
-\end{bmatrix}^{\dagger}
-=
+\end{bmatrix}^{\dagger}$$
+$$ = $$
+$$
 \begin{bmatrix}
   a^{*}&c^{*}\\
   b^{*}&d^{*}
