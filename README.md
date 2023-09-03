@@ -1,5 +1,5 @@
 # Quantum Computing Guide
-***
+
 ![Image text](https://github.com/qiqi-xingyi/Quantum_Computing_Guide/blob/main/img/0.png)
 A quantum computing tutorial for engineering students starting from scratch.
 
