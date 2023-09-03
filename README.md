@@ -164,7 +164,7 @@ $$|\psi\rangle = \alpha|0\rangle + \beta|1\rangle $$
 
 The expression provided can be seen as a representation of the probabilities of measurement outcomes for a superposition state. α and β represent the probabilities of measurement results collapsing to either $|0\rangle$ or $|1\rangle$.   
 
-When $\alpha = 1$,$\beta = 0$,
+When $\alpha = 1$ , $\beta = 0$ ,
 $$|\psi\rangle = 1|0\rangle + 0|1\rangle $$
 In this case, it's easy to derive:
 $$
