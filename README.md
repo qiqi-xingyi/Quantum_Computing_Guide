@@ -22,7 +22,7 @@ ket notation is represented as:
 
 bar notation is represented as:
 <div align="center">
-	<img src="https://github.com/qiqi-xingyi/Quantum_Computing_Guide/blob/main/img/key_N.jpg" alt="Editor" width="600">
+	<img src="https://github.com/qiqi-xingyi/Quantum_Computing_Guide/blob/main/img/bar_N.jpg" alt="Editor" width="600">
 </div>
 
 
