@@ -94,7 +94,7 @@ The Hermitian conjugate operation is a unary operation, meaning it takes only on
 $$A^{\dagger} = (A^{T})^{*}$$
 
 <div align="center">
-	<img src="https://github.com/qiqi-xingyi/Quantum_Computing_Guide/blob/main/img/M2.png" alt="Editor" width="450">
+	<img src="https://github.com/qiqi-xingyi/Quantum_Computing_Guide/blob/main/img/M2.png" alt="Editor" width="250">
 </div>
 
 
