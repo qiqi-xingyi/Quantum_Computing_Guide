@@ -1,4 +1,5 @@
 # Quantum Computing Guide
+***
 ![Image text](https://github.com/qiqi-xingyi/Quantum_Computing_Guide/blob/main/img/0.png)
 A quantum computing tutorial for engineering students starting from scratch.
 
@@ -6,6 +7,7 @@ This tutorial will start from the basics of mathematics and quantum mechanics, a
 
 This guide requires you to have some basic knowledge of linear algebra (e.g., knowing what a matrix is) and some familiarity with Python syntax (this is not mandatory, but it will be helpful in understanding the tutorial content).
 
+***
 ## Mathematical Foundations
 Much of the mathematics required for quantum computing comes from linear algebra.
 
