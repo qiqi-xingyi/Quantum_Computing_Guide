@@ -97,12 +97,11 @@ print(result)
 The Hermitian conjugate operation is a unary operation, meaning it takes only one input and produces one output.
 
 $$A^{\dagger} = (A^{T})^{*}$$
+
 $$\begin{bmatrix}
   a&b\\
   c&d
-\end{bmatrix}^{\dagger}
-=
-\begin{bmatrix}
+\end{bmatrix}^{\dagger} = \begin{bmatrix}
   a^{*}&c^{*}\\
   b^{*}&d^{*}
 \end{bmatrix}$$
