@@ -100,13 +100,12 @@ $$A^{\dagger} = (A^{T})^{*}$$
 
 $$
 \begin{bmatrix}
-  a&b\\
+  a&b\\\
   c&d
-\end{bmatrix}^{\dagger}$$
-$$ = $$
-$$
+\end{bmatrix}^{\dagger}
+ = 
 \begin{bmatrix}
-  a^{*}&c^{*}\\
+  a^{*}&c^{*}\\\
   b^{*}&d^{*}
 \end{bmatrix}
 $$
