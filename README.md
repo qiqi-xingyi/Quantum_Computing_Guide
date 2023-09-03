@@ -297,7 +297,7 @@ These three operation rules come from the three basic postulates of quantum mech
 Postulate 1 gives a method to characterize quantum states in a set space. On a Bloch sphere, we can accurately describe the position of the state through the three phases of the quantum state, as shown in the figure:
 
 <div align="center">
-	<img src="https://github.com/qiqi-xingyi/Quantum_Computing_Guide/blob/main/img/img3.png" alt="Editor" width="250">
+	<img src="https://github.com/qiqi-xingyi/Quantum_Computing_Guide/blob/main/img/img3.png" alt="Editor" width="200">
 </div>
 
 Now that we have built a quantum circuit and understand the basic content we need to know to perform quantum computing, let's expand a little and see what else we can do on this basis.
